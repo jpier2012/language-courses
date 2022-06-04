@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Priority_2_Assignments</fullName>
+    <columns>Object_Type__c</columns>
+    <columns>Priority__c</columns>
+    <columns>Assignment_Field__c</columns>
+    <columns>Zip_Code__c</columns>
+    <columns>Team_Color__c</columns>
+    <columns>User_Assigned_to_Territory__c</columns>
+    <columns>NAME</columns>
+    <columns>LAST_UPDATE</columns>
+    <columns>Active__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Priority__c</field>
+        <operation>equals</operation>
+        <value>2</value>
+    </filters>
+    <label>Priority 2</label>
+</ListView>
