@@ -6,7 +6,8 @@
 	<externalId>False</externalId>
 	<label>User</label>
 	<referenceTo>User</referenceTo>
-	<relationshipName>Manual_Territory_Assignments</relationshipName>
+	<relationshipName>Manual_Territory_Assignments9</relationshipName>
 	<trackTrending>False</trackTrending>
 	<type>Checkbox</type>
+	<>9</>
 </CustomField>
